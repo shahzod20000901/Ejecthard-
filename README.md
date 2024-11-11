@@ -1,4 +1,4 @@
-
+https://www.iditect.com/faq/csharp/eject-usb-device-via-c.html
 Mobile hard disk is USB interface。
 
 
